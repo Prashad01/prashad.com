@@ -212,8 +212,8 @@
   /*  Home  */
   .home {
     display: flex;
-    background: url("assets/bg images/everywhere.jpg") no-repeat
-      center;
+/*     background: url("assets/bg images/everywhere.jpg") no-repeat
+      center; */
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -279,8 +279,8 @@
   /*  About  */
   .about {
     display: flex;
-    background: url("assets/bg images/everywhere.jpg") no-repeat
-      center;
+/*     background: url("assets/bg images/everywhere.jpg") no-repeat
+      center; */
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -354,8 +354,8 @@
   .projects {
     color: #fff;
     display: flex;
-    background: url("assets/bg images/everywhere.jpg") no-repeat
-      center;
+/*     background: url("assets/bg images/everywhere.jpg") no-repeat
+      center; */
     height: 100vh;
     color: #fff;
     min-height: 500px;
