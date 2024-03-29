@@ -215,6 +215,7 @@
     display: flex;
 /*     background: url("assets/bg images/everywhere.jpg") no-repeat
       center; */
+    background-color: black;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -281,7 +282,8 @@
   .about {
     display: flex;
 /*     background: url("assets/bg images/everywhere.jpg") no-repeat
-      center; */
+      center; */    
+    background-color: black;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -357,6 +359,7 @@
     display: flex;
 /*     background: url("assets/bg images/everywhere.jpg") no-repeat
       center; */
+    background-color: black;    
     height: 100vh;
     color: #fff;
     min-height: 500px;
